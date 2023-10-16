@@ -1,10 +1,9 @@
 # tictactoe-game
 
-Hi everyone! Get ready for an exciting journey into the world of "Tic-Tac-Toe"! Our mission with this project was to create an engaging and immersive experience for all players, as well as practice our OOPs principles.
+Hi everyone, get ready for an exciting journey into the world of "Tic-Tac-Toe"! Our mission with this project was to create an engaging and immersive experience for all players, as well as practice our OOPs principles.
 
 In this game, you'll find a meticulously crafted C++ program that brings the timeless classic of Tic-Tac-Toe to life in a whole new way. As you explore, you'll have the chance to:
 - Engage in strategic battles with friends.
-- Experience a beautifully designed 5x5 game board where 'X' and 'O' come to life.
 - Challenge your decision-making skills and create winning combinations.
 - Enjoy a user-friendly interface that makes gameplay a breeze.
 
@@ -17,7 +16,7 @@ So, what are you waiting for? Dive in, explore, and let us know how we did. Your
 - Checked the validity of each input move and updated the game state.
 - Detected three conditions: successful game completion, no further valid moves possible, and remaining valid moves.
 
-# Game Class overview:
+# Game Class:
 - The game board is 5x5 with coordinates ranging from 0,0 to 4,4.
 - Represented game pieces as 'X' and 'O'.
 - Maintained nine inner empty squares for user input and kept the outer squares empty.
@@ -28,12 +27,12 @@ So, what are you waiting for? Dive in, explore, and let us know how we did. Your
 - Created a turn() method to manage player turns, validate moves, and update the game board.
 - Defined a play() method that loops through turns and game completion conditions.
 
-# Main Function overview:
+# Main Function:
 - Checked for valid command-line arguments, specifically "TicTacToe."
 - Created an object of the Tic-Tac-Toe game class.
 - Called the play() method and used its result as the program's return value.
 - Returned unique non-zero values for different failure cases.
 
-# Testing overview:
+# Testing:
 - Tested the program with well-formed and badly formed command lines and user inputs.
 - Documented test cases, program behavior, and correctness in the ReadMe.txt file.
