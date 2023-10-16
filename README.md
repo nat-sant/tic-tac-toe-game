@@ -10,7 +10,7 @@ In this game, you'll find a meticulously crafted C++ program that brings the tim
 So, what are you waiting for? Dive in, explore, and let us know how we did. Your feedback is invaluable, and we can't wait to hear about your "Tic-Tac-Toe" adventure! Have a blast and enjoy the game!
 
 # Program Design and Implementation:
-- Developed a C++ program with a game class.
+- Developed a C++ program in Visual Studio IDE with a game class.
 - The game class encapsulates game data within a class.
 - Prompted for and received user input for game moves.
 - Checked the validity of each input move and updated the game state.
