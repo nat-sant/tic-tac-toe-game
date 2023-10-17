@@ -1,9 +1,11 @@
 # tictactoe-game
 Hi everyone, get ready for an exciting journey into the world of "Tic-Tac-Toe"! Our mission with this project was to create an engaging and immersive experience for all players, as well as practice our OOPs principles.
+
 In this game, you'll find a meticulously crafted C++ program that brings the timeless classic of Tic-Tac-Toe to life in a whole new way. As you explore, you'll have the chance to:
 - Engage in strategic battles with friends.
 - Challenge your decision-making skills and create winning combinations.
 - Enjoy a user-friendly interface that makes gameplay a breeze.
+  
 So, what are you waiting for? Dive in, explore, and let us know how we did. Your feedback is invaluable, and we can't wait to hear about your "Tic-Tac-Toe" adventure! Have a blast and enjoy the game!
 
 # Program Design and Implementation:
